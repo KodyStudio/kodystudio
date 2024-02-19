@@ -1,13 +1,13 @@
-# Justin Campos - Desarrollador Web
+# Justin Campos - Desarrollador Web 👨‍💻
 
 ¡Hola! Soy Justin Campos, un estudiante de Ingeniería en Sistemas con un enfoque sólido en el desarrollo web. Actualmente estoy en el tercer año de la universidad y me apasiona la resolución de problemas y el diseño de soluciones eficientes en el ámbito de la ingeniería de software.
 
-## Habilidades
+## Habilidades 🚀
 
 ### Lenguajes de Programación
-- Python
-- Java
-- JavaScript
+- Python 🐍
+- Java ☕️
+- JavaScript 🌐
 
 ### Frameworks Web
 - Flask
@@ -25,7 +25,7 @@
 ### Metodologías de Desarrollo
 - Ágil/Scrum
 
-## Herramientas y Tecnologías Adicionales
+## Herramientas y Tecnologías Adicionales 🛠️
 
 ### Manejo de Proyectos
 - Maven
