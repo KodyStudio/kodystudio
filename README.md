@@ -2,4 +2,5 @@
 
 ¡Hola! Soy Justin Campos, un estudiante de Ingeniería en Sistemas con un enfoque sólido en el desarrollo web. Actualmente estoy en el tercer año de la universidad y me apasiona la resolución de problemas y el diseño de soluciones eficientes en el ámbito de la ingeniería de software.
 
-https://skillicons.dev/icons?i=java,py,js,ts,html,css,sass,tailwind,jquery,react,angular,spring,flask,maven,mysql,sqlite&perline=8
+[![My Skills]([https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=java,py,js,ts,html,css,sass,tailwind,jquery,react,angular,spring,flask,maven,mysql,sqlite&perline=8
+))](https://skillicons.dev)
